@@ -1,7 +1,7 @@
 const MODELS = {
   deepseek: {
     url: 'https://apixzz.my-website.eu.cc/api/v1/ai/deepseek'
-    name: 'deepseek/deepseek-r1'
+   name: 'deepseek/deepseek-r1'
   },
   gemini: {
     url: 'https://apixzz.my-website.eu.cc/api/v1/ai/gemini',
