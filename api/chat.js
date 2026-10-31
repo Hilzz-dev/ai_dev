@@ -16,8 +16,8 @@ const MODELS = {
     name: 'L2D Chat'
   },
   pollinations: {
-    url: 'https://apixzz.my-website.eu.cc/api/v1/ai/pollinations',
-    name: 'Pollinations'
+    url: 'https://apixzz.my-website.eu.cc/api/v1/ai/pollinations?prompt=deep&model=deepseek',
+    name: 'deepseek'
   }
 };
 
