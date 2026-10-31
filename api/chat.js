@@ -1,11 +1,7 @@
 const MODELS = {
   deepseek: {
-    url: 'https://apixzz.my-website.eu.cc/api/v1/ai/deepseek
-{
-  "message": "deep",
-  "model": "deepseek/deepseek-r1"
-  }',
-    name: 'DeepSeek'
+    url: 'https://apixzz.my-website.eu.cc/api/v1/ai/deepseek'
+    name: 'deepseek/deepseek-r1'
   },
   gemini: {
     url: 'https://apixzz.my-website.eu.cc/api/v1/ai/gemini',
