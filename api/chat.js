@@ -1,7 +1,7 @@
 const MODELS = {
   deepseek: {
-    url: 'https://apixzz.my-website.eu.cc/api/v1/ai/deepseek'
-   name: 'deepseek/deepseek-r1'
+    url: 'https://apixzz.my-website.eu.cc/api/v1/ai/deepseek',
+    name: 'deepseek/deepseek-r1'
   },
   gemini: {
     url: 'https://apixzz.my-website.eu.cc/api/v1/ai/gemini',
@@ -47,4 +47,4 @@ export default async function handler(req, res) {
   } catch (err) {
     return res.status(500).json({ error: err.message, model: selected.name });
   }
-}
+      }
